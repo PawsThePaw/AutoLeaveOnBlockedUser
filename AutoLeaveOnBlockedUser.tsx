@@ -2,8 +2,8 @@ import { Vencord } from "@vencord/api";
 import { React } from "@vendord/webpack";
 
 const BLOCKED_USER_IDS = [
-  "123456789012345678",
-  "987654321098765432",
+  "769460293804752967",
+  "1249845630499819527",
 ];
 
 export default class AutoLeaveOnBlockedUser extends Vencord.Plugin {
